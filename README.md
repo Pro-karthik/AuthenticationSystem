@@ -27,6 +27,6 @@ This repository contains a full-stack web application that provides secure user 
   - MongoDB with Mongoose
 
 ## Usage
--Registration: Navigate to the registration page to create a new user account.
--Login: Access the login page to authenticate using your registered credentials.
--Session Management: After logging in, sessions are managed securely to maintain authentication states.
+-**Registration**: Navigate to the registration page to create a new user account.
+-**Login: Access** the login page to authenticate using your registered credentials.
+-**Session Management**: After logging in, sessions are managed securely to maintain authentication states.
